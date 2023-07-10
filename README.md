@@ -1,4 +1,5 @@
 # Projeto de Modelagem de Banco de Dados para E-commerce
+
 [Esquema lógico](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/Modelo_l%C3%B3gico_ecommerce.png)
 
 [BD Ecommerce](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
@@ -31,7 +32,9 @@ ORDER BY: Ordenação dos resultados por colunas específicas.
 
 
 # Projeto de Banco de Dados para Oficina
+
 [Esquema lógico](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
+
 [BD Ecommerce](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
 
 Neste projeto, fui o protagonista na criação do esquema lógico e na implementação do banco de dados para o contexto de uma oficina. Utilizando o modelo relacional, defini todas as etapas desde a modelagem até a persistência de dados e criação de queries SQL.
