@@ -1,5 +1,6 @@
 # Projeto de Modelagem de Banco de Dados para E-commerce
-[Esquema lógico](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
+[Esquema lógico](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/Modelo_l%C3%B3gico_ecommerce.png)
+
 [BD Ecommerce](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
 
 
