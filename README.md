@@ -24,6 +24,8 @@ ORDER BY: Ordenação dos resultados por colunas específicas.
 
 
 
+
+
 # Projeto de Banco de Dados para Oficina
 
 Neste projeto, fui o protagonista na criação do esquema lógico e na implementação do banco de dados para o contexto de uma oficina. Utilizando o modelo relacional, defini todas as etapas desde a modelagem até a persistência de dados e criação de queries SQL.
