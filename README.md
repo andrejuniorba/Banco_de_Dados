@@ -17,7 +17,9 @@ Em seguida, foi realizadas a persistência de dados e a inserção de registros 
 Algumas queries utilizadas:
 
 SELECT Statement: Recuperação simples de dados das tabelas.
+
 WHERE Statement: Aplicação de filtros nos resultados das queries.
+
 ORDER BY: Ordenação dos resultados por colunas específicas.
 
 
@@ -41,9 +43,15 @@ Em seguida, realizei a persistência de dados para permitir a realização de te
 Além das queries básicas apresentadas durante a explicação do desafio, criei queries SQL mais complexas para explorar diferentes funcionalidades do banco de dados da oficina. Utilizei as seguintes cláusulas SQL:
 
 SELECT Statement: Recuperação simples de dados das tabelas.
+
 WHERE Statement: Aplicação de filtros nos resultados das queries.
+
 Expressões para gerar atributos derivados: Criação de colunas calculadas com base em outras colunas.
+
 ORDER BY: Ordenação dos resultados por colunas específicas.
+
 HAVING Statement: Condições de filtro aplicadas a grupos de dados.
+
 Junções entre tabelas: Combinação de tabelas para fornecer perspectivas mais complexas dos dados.
+
 Essas queries SQL foram desenvolvidas com o intuito de explorar as funcionalidades do banco de dados da oficina, fornecer insights e informações relevantes para a análise dos serviços, clientes, veículos e outras entidades relacionadas.
