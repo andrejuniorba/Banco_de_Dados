@@ -33,7 +33,7 @@ ORDER BY: Ordenação dos resultados por colunas específicas.
 
 # Projeto de Banco de Dados para Oficina
 
-[Esquema lógico](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
+[Esquema lógico](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/Esquema_l%C3%B3gico_Oficina.png)
 
 [BD Ecommerce](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
 
