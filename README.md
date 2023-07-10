@@ -35,7 +35,7 @@ ORDER BY: Ordenação dos resultados por colunas específicas.
 
 [Esquema lógico](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/Esquema_l%C3%B3gico_Oficina.png)
 
-[BD Ecommerce](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/esquema_relacional.sql)
+[BD Oficina](https://github.com/andrejuniorba/Banco_de_Dados/blob/main/Oficina.sql)
 
 Neste projeto, fui o protagonista na criação do esquema lógico e na implementação do banco de dados para o contexto de uma oficina. Utilizando o modelo relacional, defini todas as etapas desde a modelagem até a persistência de dados e criação de queries SQL.
 
